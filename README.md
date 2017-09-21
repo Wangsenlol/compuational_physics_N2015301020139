@@ -1,7 +1,7 @@
 Homework list
 =============================
-[Exercise-01:My Name](https://raw.githubusercontent.com/Wangsenlol/compuational_physics_N2015301020139/master/My%20name)<br/>
-[Exercise-02:]()<br/>
+[][Exercise-01:My Name](https://raw.githubusercontent.com/Wangsenlol/compuational_physics_N2015301020139/master/My%20name)<br/>
+[Exercise-02:Movement](http://note.youdao.com/noteshare?id=1fa57afc028a1f6cd6080cc7b10a6b73)<br/>
 [Exercise-03:]()<br/>
 [Exercise-04:]()<br/>
 [Exercise-05:]()<br/>
