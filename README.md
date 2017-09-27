@@ -2,7 +2,7 @@ Homework list
 =============================
 [Exercise-01:My Name](https://github.com/Wangsenlol/compuational_physics_N2015301020139/blob/master/%E5%A7%93%E5%90%8D.py)<br/>
 [Exercise-02:Movement](http://note.youdao.com/noteshare?id=1fa57afc028a1f6cd6080cc7b10a6b73)<br/>
-[Exercise-03:]()<br/>
+[Exercise-03:](https://yeah.qq.com/?q=hao)<br/>(https://www.sogou.com/tx?query=bing%E6%B5%8F%E8%A7%88%E5%99%A8&hdq=sogou-site-c91e3483cf4f9005-1002&ekv=3&ie=utf8&)<br/>
 [Exercise-04:]()<br/>
 [Exercise-05:]()<br/>
 [Exercise-06:]()<br/>
