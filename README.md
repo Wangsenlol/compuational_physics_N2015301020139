@@ -4,7 +4,7 @@ Homework list
 [Exercise-02:Movement](http://note.youdao.com/noteshare?id=1fa57afc028a1f6cd6080cc7b10a6b73)<br/>
 [Exercise-03:Section1.6](https://github.com/Wangsenlol/compuational_physics_N2015301020139/tree/master/Chapter1)----------
 [实验报告markdown](https://www.zybuluo.com/Andy-Wang/note/901661)<br/>
-[Exercise-04:]()<br/>
+[Exercise-04:](https://github.com/Wangsenlol/compuational_physics_N2015301020139/blob/master/Chapter2/%E4%BD%9C%E4%B8%9A2.12.py)-------[实验报告markdown]()<br/>
 [Exercise-05:]()<br/>
 [Exercise-06:]()<br/>
 [Exercise-07:]()<br/>
