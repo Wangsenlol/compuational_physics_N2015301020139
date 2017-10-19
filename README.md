@@ -5,7 +5,7 @@ Homework list
 [Exercise-03:Section1.6](https://github.com/Wangsenlol/compuational_physics_N2015301020139/tree/master/Chapter1)----------
 [实验报告markdown](https://www.zybuluo.com/Andy-Wang/note/901661)<br/>
 [Exercise-04:Section2.3](https://github.com/Wangsenlol/compuational_physics_N2015301020139/blob/master/Chapter2/%E4%BD%9C%E4%B8%9A2.12.py)-------[实验报告markdown](https://www.zybuluo.com/Andy-Wang/note/913288)---------[未完成Pygame的解释说明](https://www.zybuluo.com/Andy-Wang/note/914409)<br/>
-[Exercise-05:]()<br/>
+[Exercise-05:Section2.4](https://github.com/Wangsenlol/compuational_physics_N2015301020139/blob/master/Chapter2/%E4%BD%9C%E4%B8%9A2.21.py)<br/>
 [Exercise-06:]()<br/>
 [Exercise-07:]()<br/>
 [Exercise-08:]()<br/>
