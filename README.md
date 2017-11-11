@@ -9,7 +9,7 @@ Homework list
 [Exercise-06:Section3.3](https://raw.githubusercontent.com/Wangsenlol/compuational_physics_N2015301020139/master/Chapter3/3.13.py)----------[实验报告markdown](https://www.zybuluo.com/Andy-Wang/note/930353)<br/>
 [Exercise-07:Section3.6](https://raw.githubusercontent.com/Wangsenlol/compuational_physics_N2015301020139/master/Chapter3/%E4%BD%9C%E4%B8%9A3.25.py)---------------------------[实验报告markdown](https://www.zybuluo.com/Andy-Wang/note/938666)<br/>
 [Exercise-08:Section3.7](https://raw.githubusercontent.com/Wangsenlol/compuational_physics_N2015301020139/master/Chapter3/%E4%BD%9C%E4%B8%9A3.31.py)--------------------------------[实验报告markdown](https://www.zybuluo.com/Andy-Wang/note/947128)<br/>
-[计算物理期中考试Pygame]()<br/>
+[计算物理期中考试Pygame](https://github.com/Wangsenlol/compuational_physics_N2015301020139/tree/master/Pygame)-----------[游戏玩法markdown]()<br/>
 [Exercise-09:]()<br/>
 [Exercise-10:]()<br/>
 [Exercise-11:]()<br/>
