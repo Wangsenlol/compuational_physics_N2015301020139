@@ -10,7 +10,7 @@ Homework list
 [Exercise-07:Section3.6](https://raw.githubusercontent.com/Wangsenlol/compuational_physics_N2015301020139/master/Chapter3/%E4%BD%9C%E4%B8%9A3.25.py)---------------------------[实验报告markdown](https://www.zybuluo.com/Andy-Wang/note/938666)<br/>
 [Exercise-08:Section3.7](https://raw.githubusercontent.com/Wangsenlol/compuational_physics_N2015301020139/master/Chapter3/%E4%BD%9C%E4%B8%9A3.31.py)---------[实验报告markdown](https://www.zybuluo.com/Andy-Wang/note/947128)--------[计算物理期中考试Pygame](https://github.com/Wangsenlol/compuational_physics_N2015301020139/tree/master/Pygame)-------[游戏玩法markdown](https://www.zybuluo.com/Andy-Wang/note/947808)<br/>
 [Exercise-09:Section4.4](https://raw.githubusercontent.com/Wangsenlol/compuational_physics_N2015301020139/master/Chapter4/%E4%BD%9C%E4%B8%9A4.12.py)------------------[实验报告markdown](https://www.zybuluo.com/Andy-Wang/note/971329)<br/>
-[Exercise-10:Section5.1-----代码1](https://raw.githubusercontent.com/Wangsenlol/compuational_physics_N2015301020139/master/Chapter5/%E4%BD%9C%E4%B8%9A5.3.py)--[代码2]()---------------------[实验报告markdown](https://www.zybuluo.com/Andy-Wang/note/979608)<br/>
+[Exercise-10:Section5.1-----代码1](https://raw.githubusercontent.com/Wangsenlol/compuational_physics_N2015301020139/master/Chapter5/%E4%BD%9C%E4%B8%9A5.3.py)--[代码2](https://raw.githubusercontent.com/Wangsenlol/compuational_physics_N2015301020139/master/Chapter5/%E4%BD%9C%E4%B8%9A5.3_1.py)---------------------[实验报告markdown](https://www.zybuluo.com/Andy-Wang/note/979608)<br/>
 [Exercise-11:]()<br/>
 [Exercise-12:]()<br/>
 [Exercise-13:]()<br/>
