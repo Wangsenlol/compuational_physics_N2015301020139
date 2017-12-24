@@ -53,7 +53,7 @@ y1 = A1*x1 + B1
 
  
 plt.figure(figsize=(10, 6))
-plt.plot(x1, y1, color="red",label='MSD for random step lengths') 
+plt.plot(x1, y1, color="red",label='MSD for random step lengths  0<steps<1') 
 plt.scatter(N,M,s=1)
 plt.title('Mean squared displacement in 1D',fontsize=24)
 plt.xlabel('step number(=time)',fontsize=14)
