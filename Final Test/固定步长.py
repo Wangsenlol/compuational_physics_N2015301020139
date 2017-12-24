@@ -79,7 +79,7 @@ plt.scatter(rw.n_3,rw.x_3,c=point_numbers,cmap=plt.cm.Greens,
 plt.scatter(rw.n_4,rw.x_4,c=point_numbers,cmap=plt.cm.Purples,
             edgecolor='none',s=10)
 
-plt.title('Random walk in 1D for random step lengths',fontsize=24)
+plt.title('Random walk in 1D for certain step lengths',fontsize=24)
 plt.xlabel('step number=(time)',fontsize=14)
 plt.ylabel('x',fontsize=14)
 plt.tick_params(axis='both', which='major', labelsize=14) 
