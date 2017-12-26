@@ -57,7 +57,7 @@ plt.scatter(rw.x1_values[-1], rw.y1_values[-1], c='yellow', edgecolors='none',
             s=100) 
  
 
-plt.title('Random walk in 1D for random step lengths',fontsize=24)
+plt.title('Random walk in 2D for random step lengths',fontsize=24)
 plt.xlabel('x',fontsize=14)
 plt.ylabel('y',fontsize=14)
 plt.axes().get_xaxis().set_visible(False) 
